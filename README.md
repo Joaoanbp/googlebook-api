@@ -10,3 +10,5 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 Para esta tentativa de solução do desafio, utilizamos da api pública https://gutendex.com/ e para verificar os endpoints utilizamos a parte do código, o webservice do postman.
 
 Por fim, desafio não concluído com as especificações completas. Ele deve gerar, até o presenten momento, no console as informações de todos os livros e seus respectivos autores.
+
+Use npm i para instalar as dependencias que não houverem já previamente instaladas.
